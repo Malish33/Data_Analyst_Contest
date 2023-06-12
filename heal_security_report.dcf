@@ -1,0 +1,13 @@
+name: heal_security_report
+title: HEAL_Security_Report
+username:
+account: Manuel Idrovo
+server: posit.cloud
+hostUrl: https://api.shinyapps.io/v1
+appId: 9195595
+bundleId: 7269210
+url: https://posit.cloud/content/6028422
+when: 1685136852.55778
+lastSyncTime: 1685136852.5578
+asMultiple: FALSE
+asStatic: FALSE
